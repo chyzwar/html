@@ -1,0 +1,11 @@
+{
+  "ecmaVersion": 6,
+  "libs": [],
+  "loadEagerly": [
+    "./lib/**"
+  ],
+  "plugins": {
+    "node": {},
+    "es_modules": {}
+  }
+}

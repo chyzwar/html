@@ -1,0 +1,19 @@
+{
+  "name": "@hyper/html",
+  "version": "0.0.1",
+  "description": "Tagged template literals for html",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chyzwar/html.git"
+  },
+  "author": "chyzwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chyzwar/html/issues"
+  },
+  "homepage": "https://github.com/chyzwar/html#readme"
+}
